@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Dkbiniran
+- 👋 Hi𔓙
+-  I’m 𓄂Dkbiniran𓆃
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Programming
 - 📫 How to reach me : in iran😅
-- 😄 Pronouns: she
+- 😄 Pronouns: He
 - ⚡ Fun fact: Nothing
 
 <!---
